@@ -1,0 +1,10 @@
+name: apps
+title:
+username: hannesguth
+account: hannesguth
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12864758
+bundleId: 9160115
+url: https://hannesguth.shinyapps.io/apps/
+version: 1
